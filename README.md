@@ -1,1 +1,1 @@
-New program JammingOfAP
+New program JammingOfAP should be used for simulating active particles.
